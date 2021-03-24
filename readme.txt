@@ -1,5 +1,5 @@
 git is a distributed version control system.
-Git is free software
+Git is a free software
 here is the first experiment for git.
 git tracks changes
 git tracks changes of files.
